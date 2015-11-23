@@ -28,10 +28,11 @@
     },
     "location": {
       "type": "string",
-      "defaultValue": "West US",
+      "defaultValue": "Southeast Asia",
       "allowedValues": [
         "West US",
-        "East US 2"
+        "East US 2",
+        "Southeast Asia"
       ],
       "metadata": {
         "description": "Restrict choices"
